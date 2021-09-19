@@ -1,0 +1,68 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.central{
+  background-color: aqua;
+}
+
+.card{
+  background-color: aquamarine;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: row;
+  border-radius: 15px;
+}
+
+.MC{
+  align-self: center;
+  margin-left: 50px;
+  margin-right: 50px;
+  background-color: cadetblue;
+}
+
+.infodiv{
+display: flex;
+flex-direction: column;
+justify-content: center;
+background-color: rgb(174, 174, 202);
+
+}
+
+.dicdiv{
+  display: flex;
+  flex-direction: row;
+  margin: 10px;
+  background-color: rgb(68, 68, 71);
+
+}
+
+.pin{
+  background-color: cornflowerblue;
+  margin: 10px;
+
+}
+
+.meaning{
+  margin: 10px;
+  background-color: rgb(130, 130, 223);
+
+}
+
+.list{
+margin: 10px;
+background-color: rgb(72, 72, 241);
+}

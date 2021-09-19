@@ -1,0 +1,26 @@
+{
+  "Characters": [
+    {
+      "MC": "哀",
+      "Pin": "ai1",
+      "Meaning": "Sorrow",
+      "List": [
+        "哀",
+        "衰",
+        "衷"
+      ],
+      "id": 1
+    },
+    {
+      "MC": "衰",
+      "Pin": "shuai1",
+      "Meaning": "Decrease",
+      "List": [
+        "哀",
+        "衰",
+        "衷"
+      ],
+      "id": 2
+    }
+  ]
+}
